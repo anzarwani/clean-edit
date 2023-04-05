@@ -1,0 +1,1 @@
+streamlit-pandas-profiling == 0.1.3
