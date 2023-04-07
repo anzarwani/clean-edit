@@ -6,6 +6,7 @@ A no-code data cleaner webapp coded using Streamlit framework which allows you t
 ```
 pip install streamlit
 pip install pandas
+pip install streamlit-pandas-profiling
 ```
 In terminal of your directory
 
